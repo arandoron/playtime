@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repository:
 
 ```bash
-git clone git@github.com:schweigerjonas/playtime.git
+git clone git@github.com:arandoron/playtime.git
 cd playtime
 ```
 
